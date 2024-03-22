@@ -7,8 +7,8 @@ I'm from Mexico 🇲🇽. I'm a huge fan of Data Science and Dashboarding!
 
 ## 🌱 I’m currently learning
 
-[![french flag](assets/french-flag.svg)](https://www.duolingo.com/profile/MikelAngelo41)
-[![dutch flag](assets/netherlands-flag.svg)](https://www.duolingo.com/profile/MikelAngelo41)
+[<img src="assets/french-flag.svg" height="50px">](https://www.duolingo.com/profile/MikelAngelo41)
+[<img src="assets/netherlands-flag.svg" height="50px">](https://www.duolingo.com/profile/MikelAngelo41)
 
 ## 📫 How to reach me
 
