@@ -4,7 +4,9 @@
 [![twitter profile link](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mikehermar)
 [![spotify profile link](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/22sn7xireg22pnty2x7oeyrha?si=e2ee78d679d548c9)
 
-I'm from Mexico 🇲🇽 I'm a huge fan of Data Science and Dashboarding!
+## 🙋‍♂️ About me
+
+I'm from Mexico 🇲🇽 I'm a huge fan of Data Science and Dashboarding! Have worked in the Retail and Tech Industry in the past. Love learning new things and staying up to date to state-of-the-art technologies.
 
 ## 🌱 I’m currently learning
 
